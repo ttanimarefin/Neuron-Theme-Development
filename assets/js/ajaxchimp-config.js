@@ -1,5 +1,5 @@
 /* === Mail Chimp subscription form settings === */
-$( document ).ready(function() {
+jQuery( document ).ready(function($) {
 
     $('.mailchimp').ajaxChimp({
         callback: mailchimpCallback,

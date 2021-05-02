@@ -159,7 +159,7 @@
 			</div>
 			
 			<!-- slide item three -->
-			<div class="homepage-slider slider-bg3">
+			<div class="homepage-slider slider-bg2">
 				<div class="display-table">
 					<div class="display-table-cell">
 						<div class="container">
