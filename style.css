@@ -367,10 +367,10 @@ ul.cart-list>li.total>a.btn:hover {
 	background: url("/assets/img/slider-bg/1.jpg") no-repeat;
 }
 .slider-bg2{
-	background: url("<?php echo get_template_directory_uri(); ?>/assets/img/slider-bg/2.jpg") no-repeat;
+	background: url("/assets/img/slider-bg/2.jpg") no-repeat;
 }
 .slider-bg3{
-	background: url("<?php echo get_template_directory_uri(); ?>/assets/img/slider-bg/3.jpg") no-repeat;
+	background: url("/assets/img/slider-bg/3.jpg") no-repeat;
 }
 .homepage-slider{
 	width: 100%;
