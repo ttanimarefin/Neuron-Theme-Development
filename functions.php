@@ -19,4 +19,4 @@ function neuron_theme_files(){
     wp_enqueue_script( 'script-js', get_template_directory_uri() . '/assets/js/script.js', array( 'jquery' ),'1.0',true );
     
 }
-add_action( ' wp_enqueue_scripts','neuron_theme_files' );
+add_action('wp_enqueue_scripts','neuron_theme_files' );
